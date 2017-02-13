@@ -1,0 +1,39 @@
+.root {
+    margin-top: 64px;
+    padding: 0 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.content {
+    padding: 0;
+}
+
+.text {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: center;
+}
+
+.highlight {
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--red);
+}
+
+/* specific children css */
+
+
+@media (max-width: 767px) {
+    .content--talk {
+        flex-direction: column;
+    }
+}
