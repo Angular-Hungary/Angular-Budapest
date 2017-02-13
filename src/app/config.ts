@@ -1,7 +1,7 @@
 
 export const nextMeetup = {
   date: 'February 08, 2017',
-  link: 'https://www.meetup.com/Hamburg-AngularJS-Meetup/events/234414329/'
+  link: 'https://www.meetup.com/Budapest-AngularJS-Meetup/events/234414329/'
 }
 
 export const nextTalks = [
@@ -9,7 +9,7 @@ export const nextTalks = [
     reserved: false,
     title: 'Free Slot',
     description: 'This slot could be yours!',
-    contact: 'mailto:meetup@angular.hamburg',
+    contact: 'mailto:meetup@angular.Budapest',
     buttonText: 'Submit a Talk',
     text: 'Trouble finding an idea for a talk?<br /> Feel free to contact us.'
   },
@@ -17,15 +17,15 @@ export const nextTalks = [
     reserved: false,
     title: 'Free Slot',
     description: 'This slot could be yours!',
-    contact: 'mailto:meetup@angular.hamburg',
+    contact: 'mailto:meetup@angular.Budapest',
     buttonText: 'Submit a Talk',
     text: 'Trouble finding an idea for a talk?<br /> Feel free to contact us.'
   }
 ]
 
 export const aboutUs = `
-The angular.hamburg meetup is a meetup around the 
- Angular framework which takes place in Hamburg.
+The angular Budapest meetup is a meetup around the 
+ Angular framework which takes place in Budapest.
  We're open to anyone interested in the topic.
  Whether you're a beginner dying to poke questions at
  someone with experience or a veteran wanting to discuss
@@ -89,26 +89,26 @@ export const sponsors = [
   {
     name: 'You?',
     role: 'become a sponsor now',
-    link: 'mailto:meetup@angular.hamburg',
+    link: 'mailto:meetup@angular.Budapest',
     logo: 'media/sponsor-wanted.png'
   }
 ]
 
 export const platforms = [
   {
-    title: 'angular.hamburg on Meetup',
+    title: 'angular.Budapest on Meetup',
     icon: 'fa-meetup',
-    url: 'https://www.meetup.com/Hamburg-AngularJS-Meetup'
+    url: 'https://www.meetup.com/Budapest-AngularJS-Meetup'
   },
   {
-    title: 'angular.hamburg on Twitter',
+    title: 'angular.Budapest on Twitter',
     icon: 'fa-twitter',
-    url: 'https://twitter.com/angular_hamburg'
+    url: 'https://twitter.com/angular_Budapest'
   },
   {
-    title: 'angular.hamburg on Github',
+    title: 'angular.Budapest on Github',
     icon: 'fa-github',
-    url: 'https://github.com/angular-hamburg/'
+    url: 'https://github.com/angular-Budapest/'
   }
 ]
 
