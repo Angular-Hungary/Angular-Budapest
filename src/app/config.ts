@@ -1,6 +1,6 @@
 
 export const nextMeetup = {
-  date: 'February 28, 2017',
+  date: 'February 27, 2017',
   link: 'https://www.meetup.com/Budapest-AngularJS-Meetup/events/234414329/'
 }
 
@@ -9,7 +9,7 @@ export const nextTalks = [
     reserved: false,
     title: 'Free Slot',
     description: 'This slot could be yours!',
-    contact: 'mailto:meetup@angular.Budapest',
+    contact: 'https://github.com/Angular-Hungary/talks',
     buttonText: 'Submit a Talk',
     text: 'Trouble finding an idea for a talk?<br /> Feel free to contact us.'
   },
@@ -17,7 +17,7 @@ export const nextTalks = [
     reserved: false,
     title: 'Free Slot',
     description: 'This slot could be yours!',
-    contact: 'mailto:meetup@angular.Budapest',
+    contact: 'https://github.com/Angular-Hungary/talks',
     buttonText: 'Submit a Talk',
     text: 'Trouble finding an idea for a talk?<br /> Feel free to contact us.'
   }
