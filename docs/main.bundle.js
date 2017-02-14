@@ -127,7 +127,7 @@ var typings = [
     ' everyone ❤️'
 ]
     .map(function (text) { return text.replace(/ /g, '\u00a0'); });
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/config.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/config.js.map
 
 /***/ },
 
@@ -164,7 +164,7 @@ if (__WEBPACK_IMPORTED_MODULE_3__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__angular_core__["_37" /* enableProdMode */])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_4__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/main.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/main.js.map
 
 /***/ },
 
@@ -199,7 +199,7 @@ var AboutUsComponent = (function () {
     ], AboutUsComponent);
     return AboutUsComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/about-us.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/about-us.component.js.map
 
 /***/ },
 
@@ -234,7 +234,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/app.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/app.component.js.map
 
 /***/ },
 
@@ -324,7 +324,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/app.module.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/app.module.js.map
 
 /***/ },
 
@@ -360,7 +360,7 @@ var BannerComponent = (function () {
     ], BannerComponent);
     return BannerComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/banner.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/banner.component.js.map
 
 /***/ },
 
@@ -415,7 +415,7 @@ var ButtonComponent = (function () {
     ], ButtonComponent);
     return ButtonComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/button.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/button.component.js.map
 
 /***/ },
 
@@ -454,7 +454,7 @@ var CommunityComponent = (function () {
     ], CommunityComponent);
     return CommunityComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/community.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/community.component.js.map
 
 /***/ },
 
@@ -498,7 +498,7 @@ var ContainerComponent = (function () {
     ], ContainerComponent);
     return ContainerComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/container.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/container.component.js.map
 
 /***/ },
 
@@ -538,7 +538,7 @@ var HeaderComponent = (function () {
     ], HeaderComponent);
     return HeaderComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/header.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/header.component.js.map
 
 /***/ },
 
@@ -574,7 +574,7 @@ var IndicatorComponent = (function () {
     ], IndicatorComponent);
     return IndicatorComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/indicator.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/indicator.component.js.map
 
 /***/ },
 
@@ -635,7 +635,7 @@ var LinkComponent = (function () {
     ], LinkComponent);
     return LinkComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/link.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/link.component.js.map
 
 /***/ },
 
@@ -671,7 +671,7 @@ var LogoComponent = (function () {
     ], LogoComponent);
     return LogoComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/logo.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/logo.component.js.map
 
 /***/ },
 
@@ -719,7 +719,7 @@ var SectionComponent = (function () {
     ], SectionComponent);
     return SectionComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/section.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/section.component.js.map
 
 /***/ },
 
@@ -758,7 +758,7 @@ var SponsorsComponent = (function () {
     ], SponsorsComponent);
     return SponsorsComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/sponsors.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/sponsors.component.js.map
 
 /***/ },
 
@@ -797,7 +797,7 @@ var TalksComponent = (function () {
     ], TalksComponent);
     return TalksComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/talks.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/talks.component.js.map
 
 /***/ },
 
@@ -836,7 +836,7 @@ var TeamsComponent = (function () {
     ], TeamsComponent);
     return TeamsComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/teams.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/teams.component.js.map
 
 /***/ },
 
@@ -878,7 +878,7 @@ var TyperComponent = (function () {
     ], TyperComponent);
     return TyperComponent;
 }());
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/typer.component.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/typer.component.js.map
 
 /***/ },
 
@@ -894,7 +894,7 @@ var TyperComponent = (function () {
 var environment = {
     production: false
 };
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/environment.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/environment.js.map
 
 /***/ },
 
@@ -950,7 +950,7 @@ var environment = {
 
 
 
-//# sourceMappingURL=/Users/fabicsp/Documents/Angular-Budapest/src/polyfills.js.map
+//# sourceMappingURL=/Users/marcellkiss/angular-budapest/src/polyfills.js.map
 
 /***/ },
 
@@ -1146,7 +1146,7 @@ module.exports = "<div class=\"root\">\n  <h2 class=\"title\">\n    <span class=
 /***/ 647:
 /***/ function(module, exports) {
 
-module.exports = "<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/budacode.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://budacode.com/\">\n      Budacode\n    </app-link>\n    <div class=\"role\">Cross platforms develop</div>\n  </div>\n</li>\n<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/emarsys.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://www.emarsys.com/en-uk/\">\n      Emarsys\n    </app-link>\n    <div class=\"role\">Artificial Intelligence Marketing</div>\n  </div>\n</li>\n<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/logmein.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://secure.logmein.com/home\">\n      LogMeIn\n    </app-link>\n    <div class=\"role\">Simplifies How People Interact With Each Other </div>\n  </div>\n</li>\n\n\n\n\n"
+module.exports = "<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/budacode.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://budacode.com/\">\n      Budacode\n    </app-link>\n    <div class=\"role\">Cross-platform Software Development</div>\n  </div>\n</li>\n<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/emarsys.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://www.emarsys.com/en-uk/\">\n      Emarsys\n    </app-link>\n    <div class=\"role\">Artificial Intelligence Marketing</div>\n  </div>\n</li>\n<li class=\"sponsor\">\n  <img class=\"logo\" src=\"assets/logmein.png\" alt=\"#name\"/>\n  <div>\n    <app-link target=\"_blank\" class=\"name\" href=\"https://secure.logmein.com/home\">\n      LogMeIn\n    </app-link>\n    <div class=\"role\">Simplifies How People Interact With Each Other </div>\n  </div>\n</li>\n\n\n\n\n"
 
 /***/ },
 
